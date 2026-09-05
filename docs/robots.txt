@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xxxzzzfff2020.github.io/game-official-sites/sitemap.xml

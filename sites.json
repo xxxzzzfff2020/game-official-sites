@@ -1,0 +1,31 @@
+{
+  "baseUrl": "https://xxxzzzfff2020.github.io/game-official-sites/",
+  "sites": [
+    {
+      "slug": "yudi",
+      "name": "我做玉帝那些事",
+      "description": "互动影视 · 天庭模拟经营",
+      "image": "assets/yudi-promo-16x9.webp",
+      "source": "xxxzzzfff2020/yudi-emperor-official-site",
+      "commit": "00ea0633d2f748c2455c0474ed2ae966ff2a5dfc"
+    },
+    {
+      "slug": "compute-tycoon",
+      "name": "算力大亨",
+      "description": "从第一台服务器，走向地月算力网络",
+      "image": "assets/compute-tycoon-promo-16x9-1920x1080.jpg",
+      "source": "xxxzzzfff2020/compute-tycoon",
+      "sourceDirectory": "public/official-site",
+      "commit": "548b2363bfa6b941c3d2e39eee6ee4a9d1825afb"
+    },
+    {
+      "slug": "overload-aftershock",
+      "name": "过载余波",
+      "description": "竖屏俯视角 · 霓虹街机 Roguelite",
+      "image": "media/hero-16x9.png",
+      "source": "xxxzzzfff2020/overload-aftershock",
+      "sourceDirectory": "docs",
+      "commit": "41171906a68c76ed0a63ecc507ff996cf7cf8ba3"
+    }
+  ]
+}
