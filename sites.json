@@ -26,6 +26,13 @@
       "source": "xxxzzzfff2020/overload-aftershock",
       "sourceDirectory": "docs",
       "commit": "41171906a68c76ed0a63ecc507ff996cf7cf8ba3"
+    },
+    {
+      "slug": "sword_no_name",
+      "name": "剑出无名",
+      "description": "互动影像叙事 · 轻策略卡牌",
+      "image": "assets/sword-promo-16x9.webp",
+      "source": "https://www.taptap.cn/app/911631"
     }
   ]
 }

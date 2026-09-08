@@ -7,6 +7,7 @@
 | 我做玉帝那些事 | docs/yudi/ | https://xxxzzzfff2020.github.io/game-official-sites/yudi/ |
 | 算力大亨 | docs/compute-tycoon/ | https://xxxzzzfff2020.github.io/game-official-sites/compute-tycoon/ |
 | 过载余波 | docs/overload-aftershock/ | https://xxxzzzfff2020.github.io/game-official-sites/overload-aftershock/ |
+| 剑出无名 | docs/sword_no_name/ | https://xxxzzzfff2020.github.io/game-official-sites/sword_no_name/ |
 
 统一入口：https://xxxzzzfff2020.github.io/game-official-sites/
 
@@ -25,7 +26,7 @@
 
 ## 来源与边界
 
-sites.json 记录首次复制的仓库、目录和提交。只复制官网文件和宣传素材；算力大亨在线试玩继续连接原游戏站，过载余波源码链接继续连接原开源仓库。
-三站原有视觉、视频、二维码及游戏入口保持。素材权利归原权利人；公开访问不代表获得素材再发行许可。没有为原素材增加新的开源授权。
+sites.json 记录首次复制的仓库、目录和提交。只复制官网文件和宣传素材；算力大亨在线试玩继续连接原游戏站，过载余波源码链接继续连接原开源仓库。剑出无名官网素材来自官方宣传物料包，试玩与社区入口连接其 TapTap 页面。
+各站原有视觉、视频、二维码及游戏入口保持。素材权利归原权利人；公开访问不代表获得素材再发行许可。没有为原素材增加新的开源授权。
 
-若转移仓库或更换域名，更新 sites.json 的 baseUrl、三个官网的 canonical/分享图片 URL，然后重新 build。每个游戏目录可独立复制到其他静态托管服务。
+若转移仓库或更换域名，更新 sites.json 的 baseUrl、各官网的 canonical/分享图片 URL，然后重新 build。每个游戏目录可独立复制到其他静态托管服务。
