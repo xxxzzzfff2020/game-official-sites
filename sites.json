@@ -33,6 +33,13 @@
       "description": "互动影像叙事 · 轻策略卡牌",
       "image": "assets/sword-promo-16x9.webp",
       "source": "https://www.taptap.cn/app/911631"
+    },
+    {
+      "slug": "zhen-feng-yao-ling",
+      "name": "阵封妖灵",
+      "description": "国风像素解谜 · 推石布阵，封印妖灵",
+      "image": "assets/hero.png",
+      "source": "https://tap.cn/mVXJIZTV"
     }
   ]
 }
