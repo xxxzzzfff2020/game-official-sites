@@ -10,6 +10,7 @@
 | 算力大亨 | docs/compute-tycoon/ | https://xxxzzzfff2020.github.io/game-official-sites/compute-tycoon/ |
 | 过载余波 | docs/overload-aftershock/ | https://xxxzzzfff2020.github.io/game-official-sites/overload-aftershock/ |
 | 剑出无名 | docs/sword_no_name/ | https://xxxzzzfff2020.github.io/game-official-sites/sword_no_name/ |
+| 阵封妖灵 | docs/zhen-feng-yao-ling/ | https://xxxzzzfff2020.github.io/game-official-sites/zhen-feng-yao-ling/ |
 
 统一入口：https://xxxzzzfff2020.github.io/game-official-sites/
 
