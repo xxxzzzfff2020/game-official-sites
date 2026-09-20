@@ -4,6 +4,8 @@
 
 | 游戏 | 目录 | 访问入口 |
 |---|---|---|
+| 掌门我来当 | docs/zhangmen/ | https://xxxzzzfff2020.github.io/game-official-sites/zhangmen/ |
+| 这颗星球我包了 | docs/planet/ | https://xxxzzzfff2020.github.io/game-official-sites/planet/ |
 | 我做玉帝那些事 | docs/yudi/ | https://xxxzzzfff2020.github.io/game-official-sites/yudi/ |
 | 算力大亨 | docs/compute-tycoon/ | https://xxxzzzfff2020.github.io/game-official-sites/compute-tycoon/ |
 | 过载余波 | docs/overload-aftershock/ | https://xxxzzzfff2020.github.io/game-official-sites/overload-aftershock/ |
@@ -18,6 +20,9 @@
 本地预览：`npm run preview`，打开 http://localhost:4173/ 。原来的三个仓库和访问地址继续保留；本仓库是独立副本，后续修改不会自动回写原仓库。
 
 ## 添加新游戏
+
+掌门与星球的下载配置分别位于 `docs/zhangmen/config.js`、`docs/planet/config.js`。
+收到 TapTap 入口后填写 `download.url`，二维码放入对应 `assets/` 并填写 `download.qr`（如 `./assets/taptap-qr.png`）。空 URL 时不显示可点击下载按钮或二维码；无需修改页面文案。两站只包含官网与宣传素材，不包含游戏源码、存档或开发报告。
 
 1. 在 docs 下创建新的英文目录，例如 docs/new-game/，放入官网 index.html 和素材。使用相对资源路径。
 2. 在 sites.json 的 sites 数组加入 slug、name、description、image（相对于游戏目录）和来源信息。

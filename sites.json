@@ -2,6 +2,20 @@
   "baseUrl": "https://xxxzzzfff2020.github.io/game-official-sites/",
   "sites": [
     {
+      "slug": "zhangmen",
+      "name": "掌门我来当",
+      "description": "宗门经营 · 百业兴盛，薪火相传",
+      "image": "assets/hero.jpg",
+      "source": "Owner 提供的掌门我来当项目宣传素材与产品介绍"
+    },
+    {
+      "slug": "planet",
+      "name": "这颗星球我包了",
+      "description": "划地开荒 · 挂机发展，建造星际家园",
+      "image": "assets/hero.png",
+      "source": "Owner 提供的这个星球我包了项目宣传素材与产品介绍"
+    },
+    {
       "slug": "yudi",
       "name": "我做玉帝那些事",
       "description": "互动影视 · 天庭模拟经营",
